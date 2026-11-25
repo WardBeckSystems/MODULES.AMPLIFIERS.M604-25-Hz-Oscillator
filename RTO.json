@@ -16,7 +16,7 @@
    "polarity": null,
    "confidence": "medium",
    "read_from": "prose",
-   "file": "Modules/AMPLIFIERS/M604/SCHEMATICS/1967 - M604 - P003 - Circuit Description.jpg",
+   "file": "Modules/AMPLIFIERS/M604/MANUALS/1967 - M604 - P003 - Circuit Description.jpg",
    "page": 1
   },
   {
@@ -27,13 +27,13 @@
    "polarity": null,
    "confidence": "medium",
    "read_from": "prose",
-   "file": "Modules/AMPLIFIERS/M604/SCHEMATICS/1967 - M604 - P003 - Circuit Description.jpg",
+   "file": "Modules/AMPLIFIERS/M604/MANUALS/1967 - M604 - P003 - Circuit Description.jpg",
    "page": 1
   }
  ],
  "straps": [],
  "power": [],
  "sources": [
-  "Modules/AMPLIFIERS/M604/SCHEMATICS/1967 - M604 - P003 - Circuit Description.jpg"
+  "Modules/AMPLIFIERS/M604/MANUALS/1967 - M604 - P003 - Circuit Description.jpg"
  ]
 }

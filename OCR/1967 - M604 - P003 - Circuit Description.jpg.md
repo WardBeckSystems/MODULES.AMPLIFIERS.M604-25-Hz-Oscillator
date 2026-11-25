@@ -41,7 +41,7 @@ The 24 to 36 vdc supply voltage is regulated down to 16v 01 acts as the series p
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M604/SCHEMATICS/1967 - M604 - P003 - Circuit Description.jpg",
+ "file": "Modules/AMPLIFIERS/M604/MANUALS/1967 - M604 - P003 - Circuit Description.jpg",
  "sha256": "d9c92870ad4ee170c50372b8fc48e147f2483b1eca3dcb051312e495df3f5827",
  "kind": "module",
  "models": [
