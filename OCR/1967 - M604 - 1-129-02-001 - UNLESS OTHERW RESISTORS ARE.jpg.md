@@ -23,7 +23,7 @@ Wiki page: [M604](../../../../PAGES/M604.md)
 - **Title block:** (216, 30)–(249, 71) mm: DRN · DATE
 - **Wiring (first pass):** 74 connected wire groups from 589 runs; labelled ends: 133 mm → liss ookko, TOLS, Ea7; 83 mm → 205137, 02; 82 mm → QM, MRW; 76 mm → liss ookko, TOLS; 51 mm → 02
 
-Every curve, box, word and wire group: [1967 - M604 - 1-129-02-001 - UNLESS OTHERW RESISTORS ARE (traced).json](../SCHEMATICS/1967%20-%20M604%20-%201-129-02-001%20-%20UNLESS%20OTHERW%20RESISTORS%20ARE%20(traced).json) (the CAD file: `1967 - M604 - 1-129-02-001 - UNLESS OTHERW RESISTORS ARE (traced).dxf`).
+Every curve, box, word and wire group: [1967 - M604 - 1-129-02-001 - UNLESS OTHERW RESISTORS ARE (traced).json](../SCHEMATICS/1967%20-%20M604%20-%201-129-02-001%20-%20UNLESS%20OTHERW%20RESISTORS%20ARE%20%28traced%29.json) (the CAD file: `1967 - M604 - 1-129-02-001 - UNLESS OTHERW RESISTORS ARE (traced).dxf`).
 
 ## Full text
 

@@ -22,7 +22,7 @@ Wiki page: [M604](../../../../PAGES/M604.md)
 - **Words (OCR):** 32 in 31 lines: Iev · R2i · C2i · Ioo · S5v · R29 · 3ok · 237 · 2312 · kis · 709 · 18/25v
 - **Wiring (first pass):** 88 connected wire groups from 476 runs; labelled ends: 162 mm → 237, 2312, zz3e; 157 mm → C2i; 157 mm → 237, 2312; 116 mm → 10/25v; 110 mm → RiB, 22k, 28
 
-Every curve, box, word and wire group: [1967 - M604 - 1-129-02-001 - TRIM LONTROL OUTPUT OUT IOMTBDBM (traced).json](../SCHEMATICS/1967%20-%20M604%20-%201-129-02-001%20-%20TRIM%20LONTROL%20OUTPUT%20OUT%20IOMTBDBM%20(traced).json) (the CAD file: `1967 - M604 - 1-129-02-001 - TRIM LONTROL OUTPUT OUT IOMTBDBM (traced).dxf`).
+Every curve, box, word and wire group: [1967 - M604 - 1-129-02-001 - TRIM LONTROL OUTPUT OUT IOMTBDBM (traced).json](../SCHEMATICS/1967%20-%20M604%20-%201-129-02-001%20-%20TRIM%20LONTROL%20OUTPUT%20OUT%20IOMTBDBM%20%28traced%29.json) (the CAD file: `1967 - M604 - 1-129-02-001 - TRIM LONTROL OUTPUT OUT IOMTBDBM (traced).dxf`).
 
 ## Full text
 

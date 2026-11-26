@@ -39,7 +39,7 @@ Wiki page: [M604](../../../../PAGES/M604.md)
 - **Title block:** (154, 9)–(410, 68) mm: Mm BECK   SYSTEMS · ISS MOD ckd · TOLS · FINISH · DRN · MRW · M6o4A · JAN.75 · 25 Hz OSCILLATOR · DATE · MATERUAL · SCHEMATIC · co · scalE · ISS:
 - **Wiring (first pass):** 37 connected wire groups from 104 runs; labelled ends: 46 mm → outPuT 2; 38 mm → Pi; 37 mm → ISS; 21 mm → cwt, 5k; 20 mm → cwt, 5k
 
-Every curve, box, word and wire group: [1975 - 604-02-002 - M604A 25 Hz OSCILLATOR SCHEMATIC - DRN MRW - ISS 1 (traced).json](../SCHEMATICS/1975%20-%20604-02-002%20-%20M604A%2025%20Hz%20OSCILLATOR%20SCHEMATIC%20-%20DRN%20MRW%20-%20ISS%201%20(traced).json) (the CAD file: `1975 - 604-02-002 - M604A 25 Hz OSCILLATOR SCHEMATIC - DRN MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - 604-02-002 - M604A 25 Hz OSCILLATOR SCHEMATIC - DRN MRW - ISS 1 (traced).json](../SCHEMATICS/1975%20-%20604-02-002%20-%20M604A%2025%20Hz%20OSCILLATOR%20SCHEMATIC%20-%20DRN%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1975 - 604-02-002 - M604A 25 Hz OSCILLATOR SCHEMATIC - DRN MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 

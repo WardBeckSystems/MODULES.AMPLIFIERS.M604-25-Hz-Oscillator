@@ -11,6 +11,16 @@ Wiki page: [M604](../../../../PAGES/M604.md)
 - **Size:** 116,356 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** layout, size B (assumed) 319 × 432 mm, 771 × 1043 px traced (0.414 mm/px)
+- **Ink extent:** 38–288 mm across, 166–414 mm up
+- **Outlines:** line 39 rings, 548 straight (2,398 mm) / 94 curved (280 mm); text 104 rings, 878 straight (1,789 mm) / 272 curved (777 mm)
+- **Closed boxes:** 4
+- **Words (OCR):** 24 in 18 lines: M6o4 · CONNECTOR OUTLINE · 90 · +24V dc UNREG. · 24V COMMON · 1o 20 · 38 · OUTPUT # | · 129 49 · OUTPUT #2 · 50 · 1140 60
+
+Every curve, box, word and wire group: [1967 - M604 - P006 - Connector Outline (traced).json](../PINOUTS/1967%20-%20M604%20-%20P006%20-%20Connector%20Outline%20%28traced%29.json) (the CAD file: `1967 - M604 - P006 - Connector Outline (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

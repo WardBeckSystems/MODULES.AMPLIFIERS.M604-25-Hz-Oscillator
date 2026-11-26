@@ -23,7 +23,7 @@ Wiki page: [M604](../../../../PAGES/M604.md)
 - **Words (OCR):** 31 in 15 lines: DESiGN ED AND MANUFACTUR ED · BY · WARD-BECK SYSTEMS LI MITE · 84 PROGRES AVENUE · SCARBO ROUG · ONTARIO · (41 · 38- 6550 · TELEX 06- 23469 · 14604 · ca · DUAL FREQUENCY OSCI LLATOR
 - **Title block:** (42, 342)–(128, 366) mm: BY · WARD-BECK SYSTEMS LI MITE · 84 PROGRES AVENUE
 
-Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p1 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20(2)%20p1%20(traced).json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p1 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -33,7 +33,7 @@ Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator 
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.0 @ (147.7, 248.9)
 - **Words (OCR):** 57 in 32 lines: M604 · TECHNI CAL DATA: · FREQUENCY: · 00 Hz OJ:' 1000 Hz · (Determinec1 by conditiona · OtrrPUT L:!VEL 1\ND "IMPEDANCE · -lOdam to 10c1am Vuiable 600 ohlll balal'lCed · TOTAL HARMONIC DISTORTION: · Le aa · 0.5" · FREQUENCY ACCURACY/STABILITY: · Within
 
-Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p2 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20(2)%20p2%20(traced).json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p2 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -45,7 +45,7 @@ Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator 
 - **Dots (junctions):** 5
 - **Words (OCR):** 353 in 114 lines: CIRcuIT DESC RI PT IO · with · ere · drawing 1-129-02-00 · ntegr ated cin;:uit · forwlll the · ci ater circuit, integr ed circuita, Z2 r:4 · ZJ provide the cti el ba lanced outpu and Ql, Q2, and QJ · the regula tor · Th. aeetion · Zl aaaociated with ca, C9 R7 · RlO Rll and
 
-Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p3 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20(2)%20p3%20(traced).json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p3 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -56,7 +56,7 @@ Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator 
 - **Dots (junctions):** 1
 - **Words (OCR):** 68 in 39 lines: pca -129 · VOL TAGE C$.RT · connector Pi ru: · 10 11 12 13 14 · ai · 1.5. 13 13 · 13 13 1.5• · 16 · ·z2 · 14 · 16 14 · Z3
 
-Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p4 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20(2)%20p4%20(traced).json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p4 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -67,7 +67,7 @@ Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator 
 - **Dots (junctions):** 1
 - **Words (OCR):** 129 in 45 lines: SETW AND TEST PJt9C'£IlUU · Apply 2&V dc lowly to te.t · r-ina · and. no te that the · outpu eu rent shauld be · between · 19 · O1eck tha requlator output · the · emitter 01 is +16.SV eSe. · Strap oscillator connector for 00 Hz · cwt pu frequency.
 
-Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p5 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20(2)%20p5%20(traced).json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p5 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -79,7 +79,7 @@ Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator 
 - **Dots (junctions):** 5
 - **Words (OCR):** 16 in 11 lines: Ca..I EC TOR OUTLINE. · 24 c.ot...1MON · OUTPUT · OUTPUT · 400 · STRAP · 1KHz STRAP · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p6 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20(2)%20p6%20(traced).json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p6 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -90,7 +90,7 @@ Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator 
 - **Closed boxes:** 5
 - **Words (OCR):** 198 in 124 lines: 60. · DUAL · PREOUENCI OSC ILlA'1"OR. · Page · DESCRI PTIO · cr · .047 Illfd · Philip-' · C344AB 47K · C2 · 22 at"d 2Sv · T36 2-C226-o2SAS
 
-Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p7 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20(2)%20p7%20(traced).json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p7 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -101,7 +101,7 @@ Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator 
 - **Dots (junctions):** 1
 - **Words (OCR):** 91 in 72 lines: PARTS LIST · M604 · DUAL FREQUENCY OSCILlATOR · Pa · SYMBOL · DESCRIPTION · !!FG · SOK Pot Dht Adj · 62 P50 · '6R · 2701( · 22R
 
-Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p8 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20(2)%20p8%20(traced).json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p8 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -112,7 +112,7 @@ Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator 
 - **Dots (junctions):** 1
 - **Words (OCR):** 25 in 17 lines: Rl · t-JT · PANEL- · TR IM · 10 · 1-1 · SC I!-!...ATOR C.c...1= · cwt SK · 'Sf · ca · rrl · ISS MOO CKD
 
-Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p9 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20(2)%20p9%20(traced).json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p9 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -122,7 +122,7 @@ Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator 
 - **Dots (junctions):** 5
 - **Words (OCR):** 12 in 11 lines: 10 · TO-+SdBm · 600 · 'o,c, · 701, 1KHz · --"<ao · ~OR · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p10 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20(2)%20p10%20(traced).json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p10 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -131,7 +131,7 @@ Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator 
 - **Outlines:** line 1,641 rings, 15,277 straight (17,213 mm) / 4,107 curved (5,541 mm); text 22 rings, 104 straight (105 mm) / 34 curved (41.5 mm)
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p11 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20(2)%20p11%20(traced).json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p11 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -142,7 +142,7 @@ Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator 
 - **Closed boxes:** 2
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p12 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20(2)%20p12%20(traced).json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p12 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -152,7 +152,7 @@ Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator 
 - **Dots (junctions):** 2
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p13 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20(2)%20p13%20(traced).json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p13 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -163,7 +163,7 @@ Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator 
 - **Dots (junctions):** 1
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p14 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20(2)%20p14%20(traced).json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p14 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20%282%29%20p14%20%28traced%29.json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -173,7 +173,7 @@ Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator 
 - **Circles and arcs:** 8 circles, 0 arcs; largest r 3.3 @ (176.6, 290.9), r 3.2 @ (269.4, 311.0), r 3.1 @ (198.0, 335.7), r 3.0 @ (166.0, 311.2)
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p15 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20(2)%20p15%20(traced).json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p15 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20%282%29%20p15%20%28traced%29.json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p15 (traced).dxf`).
 
 ### Page 16
 
@@ -184,7 +184,7 @@ Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator 
 - **Closed boxes:** 15; named: e21; I8; R33~; 1.8; R29r; R20f-; R27r; C20; R32r; 1R2e+; R25
 - **Words (OCR):** 15 in 15 lines: e21 · R33~ · I8 · 1.8 · R29r · R20f- · R27r · R32r · C20 · R25 · 1R2e+ · ps
 
-Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p16 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20(2)%20p16%20(traced).json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p16 (traced).dxf`).
+Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p16 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20%282%29%20p16%20%28traced%29.json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p16 (traced).dxf`).
 
 ### Page 17
 
@@ -195,7 +195,7 @@ Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator 
 - **Closed boxes:** 15; named: ps BS tp; ht
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p17 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20(2)%20p17%20(traced).json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p17 (traced).dxf`).
+Every curve, box, word and wire group: [1967 - M604 - Dual Frequency Oscillator (2) p17 (traced).json](../MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20%282%29%20p17%20%28traced%29.json) (the CAD file: `1967 - M604 - Dual Frequency Oscillator (2) p17 (traced).dxf`).
 
 ## Full text
 
