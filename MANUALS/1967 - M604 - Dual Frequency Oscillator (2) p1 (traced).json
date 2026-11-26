@@ -1,0 +1,65 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M604/MANUALS/1967 - M604 - Dual Frequency Oscillator (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/b262cb1891290492-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1438, 2000],
+  "mm": [310.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 2.2, 294.3, 422.9],
+ "outlines": {
+  "line": {"rings": 116, "straight": {"n": 888, "mm": 1224.4}, "curved": {"n": 293, "mm": 496.7}},
+  "text": {"rings": 64, "straight": {"n": 588, "mm": 751.1}, "curved": {"n": 175, "mm": 275.6}},
+  "tb": {"rings": 32, "straight": {"n": 264, "mm": 324.8}, "curved": {"n": 75, "mm": 126.8}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [60.9, 366.4, 63.3, 372.0], "w": 2.4, "h": 5.7, "from": "ring"},
+  {"mm": [136.2, 352.3, 138.6, 358.2], "w": 2.4, "h": 5.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 31,
+  "lines": [
+   {"mm": [48.4, 364.9, 153.5, 371.1], "text": "DESiGN ED AND MANUFACTUR ED"},
+   {"mm": [94.1, 357.3, 103.8, 364.0], "text": "BY"},
+   {"mm": [47.9, 351.1, 147.5, 357.3], "text": "WARD-BECK SYSTEMS LI MITE"},
+   {"mm": [48.4, 344.1, 126.3, 350.4], "text": "84 PROGRES AVENUE"},
+   {"mm": [48.4, 337.0, 89.2, 343.3], "text": "SCARBO ROUG"},
+   {"mm": [102.6, 337.0, 133.2, 343.3], "text": "ONTARIO"},
+   {"mm": [49.2, 323.4, 58.9, 329.7], "text": "(41"},
+   {"mm": [82.3, 323.4, 110.5, 329.7], "text": "38- 6550"},
+   {"mm": [48.4, 316.3, 109.0, 322.5], "text": "TELEX 06- 23469"},
+   {"mm": [232.3, 83.8, 251.1, 90.0], "text": "14604"},
+   {"mm": [267.1, 72.3, 286.1, 80.7], "text": "ca"},
+   {"mm": [191.1, 69.5, 296.6, 75.8], "text": "DUAL FREQUENCY OSCI LLATOR"},
+   {"mm": [245.9, 51.0, 266.2, 61.5], "text": "BS"},
+   {"mm": [225.2, 30.2, 242.5, 36.9], "text": "tp"},
+   {"mm": [218.5, 23.5, 237.9, 30.2], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [41.8, 342.5, 127.5, 366.0],
+  "from": "title-block words (training set)",
+  "text": ["BY", "WARD-BECK SYSTEMS LI MITE", "84 PROGRES AVENUE"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 310 × 432 mm, 1438 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–294 mm across, 2–423 mm up",
+  "- **Outlines:** line 116 rings, 888 straight (1,224 mm) / 293 curved (497 mm); text 64 rings, 588 straight (751 mm) / 175 curved (276 mm); tb 32 rings, 264 straight (325 mm) / 75 curved (127 mm)",
+  "- **Closed boxes:** 2",
+  "- **Words (OCR):** 31 in 15 lines: DESiGN ED AND MANUFACTUR ED · BY · WARD-BECK SYSTEMS LI MITE · 84 PROGRES AVENUE · SCARBO ROUG · ONTARIO · (41 · 38- 6550 · TELEX 06- 23469 · 14604 · ca · DUAL FREQUENCY OSCI LLATOR",
+  "- **Title block:** (42, 342)–(128, 366) mm: BY · WARD-BECK SYSTEMS LI MITE · 84 PROGRES AVENUE"
+ ]
+}

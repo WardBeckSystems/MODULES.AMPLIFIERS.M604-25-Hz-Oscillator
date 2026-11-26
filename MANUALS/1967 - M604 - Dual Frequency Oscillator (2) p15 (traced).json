@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M604/MANUALS/1967 - M604 - Dual Frequency Oscillator (2).pdf",
+ "page": 15,
+ "version": 1,
+ "trace": "_traces/b262cb1891290492-p15.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1542, 2000],
+  "mm": [332.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "15", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 16.5, 314.1, 431.8],
+ "outlines": {
+  "line": {"rings": 1531, "straight": {"n": 14283, "mm": 15407.5}, "curved": {"n": 3965, "mm": 5491.3}},
+  "text": {"rings": 6, "straight": {"n": 18, "mm": 13.9}, "curved": {"n": 9, "mm": 7.6}}
+ },
+ "circles": [
+  {"c": [176.6, 290.9], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [269.4, 311.0], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [198.0, 335.7], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [166.0, 311.2], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [197.4, 246.5], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [243.0, 231.8], "r": 2.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [141.9, 231.9], "r": 2.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [277.3, 291.1], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [276.6, 64.6, 297.3, 73.4], "text": "ps"},
+   {"mm": [265.1, 53.3, 286.9, 64.6], "text": "BS"},
+   {"mm": [242.9, 31.1, 261.2, 38.3], "text": "tp"},
+   {"mm": [235.8, 24.0, 256.5, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 333 × 432 mm, 1542 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–314 mm across, 16–432 mm up",
+  "- **Outlines:** line 1,531 rings, 14,283 straight (15,408 mm) / 3,965 curved (5,491 mm); text 6 rings, 18 straight (13.9 mm) / 9 curved (7.6 mm)",
+  "- **Circles and arcs:** 8 circles, 0 arcs; largest r 3.3 @ (176.6, 290.9), r 3.2 @ (269.4, 311.0), r 3.1 @ (198.0, 335.7), r 3.0 @ (166.0, 311.2)",
+  "- **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht"
+ ]
+}

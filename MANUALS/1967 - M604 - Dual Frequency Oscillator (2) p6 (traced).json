@@ -1,0 +1,79 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M604/MANUALS/1967 - M604 - Dual Frequency Oscillator (2).pdf",
+ "page": 6,
+ "version": 1,
+ "trace": "_traces/b262cb1891290492-p6.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1478, 2000],
+  "mm": [319.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "6", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [7.6, 24.8, 304.2, 414.1],
+ "outlines": {
+  "line": {"rings": 162, "straight": {"n": 2255, "mm": 4209.5}, "curved": {"n": 525, "mm": 964.1}},
+  "text": {"rings": 25, "straight": {"n": 285, "mm": 417.7}, "curved": {"n": 80, "mm": 145.0}}
+ },
+ "circles": [
+  {"c": [172.0, 275.1], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [172.5, 213.0], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [151.8, 233.6], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [172.2, 233.8], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [172.4, 244.2], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [172.6, 223.9], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [151.5, 223.1], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [166.2, 410.7], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [208.6, 229.1], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [151.9, 285.4], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [172.0, 275.2], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [172.5, 264.6], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [151.6, 275.0], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [172.7, 223.9], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [172.8, 254.5], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [128.7, 260.6, 140.1, 269.4], "w": 11.4, "h": 8.9, "from": "ring"},
+  {"mm": [128.7, 248.9, 140.3, 259.3], "w": 11.7, "h": 10.4, "from": "ring"},
+  {"mm": [128.6, 239.2, 140.3, 247.9], "w": 11.7, "h": 8.6, "from": "ring"}
+ ],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [116.6, 396.0, 222.4, 402.9], "text": "Ca..I EC TOR OUTLINE."},
+   {"mm": [39.3, 274.4, 102.3, 281.6], "text": "24 c.ot...1MON"},
+   {"mm": [39.7, 260.2, 76.6, 267.1], "text": "OUTPUT"},
+   {"mm": [40.4, 239.0, 79.9, 246.0], "text": "OUTPUT"},
+   {"mm": [200.8, 224.5, 217.4, 231.3], "text": "400"},
+   {"mm": [233.4, 224.5, 258.0, 231.3], "text": "STRAP"},
+   {"mm": [201.7, 212.9, 255.8, 220.1], "text": "1KHz STRAP"},
+   {"mm": [264.0, 63.0, 283.9, 71.7], "text": "ps"},
+   {"mm": [253.0, 52.0, 274.0, 63.1], "text": "BS"},
+   {"mm": [231.7, 30.9, 249.4, 37.6], "text": "tp"},
+   {"mm": [225.0, 24.0, 244.8, 30.7], "text": "ht"}
+  ]
+ },
+ "dots": [
+  {"c": [151.6, 254.1], "r": 1.6, "lines": 0},
+  {"c": [151.4, 243.6], "r": 1.6, "lines": 0},
+  {"c": [151.7, 233.5], "r": 1.5, "lines": 0},
+  {"c": [172.5, 213.0], "r": 1.6, "lines": 0},
+  {"c": [151.4, 212.7], "r": 1.6, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 319 × 432 mm, 1478 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 8–304 mm across, 25–414 mm up",
+  "- **Outlines:** line 162 rings, 2,255 straight (4,210 mm) / 525 curved (964 mm); text 25 rings, 285 straight (418 mm) / 80 curved (145 mm)",
+  "- **Circles and arcs:** 15 circles, 0 arcs; largest r 3.1 @ (172.0, 275.1), r 3.1 @ (172.5, 213.0), r 3.1 @ (151.8, 233.6), r 3.1 @ (172.2, 233.8)",
+  "- **Closed boxes:** 3",
+  "- **Dots (junctions):** 5",
+  "- **Words (OCR):** 16 in 11 lines: Ca..I EC TOR OUTLINE. · 24 c.ot...1MON · OUTPUT · OUTPUT · 400 · STRAP · 1KHz STRAP · ps · BS · tp · ht"
+ ]
+}

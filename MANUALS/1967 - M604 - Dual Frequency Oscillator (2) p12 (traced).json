@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M604/MANUALS/1967 - M604 - Dual Frequency Oscillator (2).pdf",
+ "page": 12,
+ "version": 1,
+ "trace": "_traces/b262cb1891290492-p12.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1547, 2000],
+  "mm": [334.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "12", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 11.7, 334.1, 430.2],
+ "outlines": {
+  "line": {"rings": 1492, "straight": {"n": 13672, "mm": 14797.1}, "curved": {"n": 3825, "mm": 5217.1}},
+  "text": {"rings": 14, "straight": {"n": 50, "mm": 38.9}, "curved": {"n": 9, "mm": 10.2}}
+ },
+ "circles": [
+  {"c": [288.3, 312.6], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [320.3, 247.8], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [265.5, 232.8], "r": 2.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [288.4, 312.2], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [51.4, 65.2, 66.5, 80.5], "w": 15.1, "h": 15.3, "from": "ring"},
+  {"mm": [51.6, 55.7, 66.7, 64.1], "w": 15.1, "h": 8.4, "from": "ring"}
+ ],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [277.4, 64.8, 298.4, 73.9], "text": "ps"},
+   {"mm": [266.0, 53.5, 287.8, 65.1], "text": "BS"},
+   {"mm": [243.8, 31.1, 262.3, 38.3], "text": "tp"},
+   {"mm": [236.4, 24.0, 257.4, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1547 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 12–430 mm up",
+  "- **Outlines:** line 1,492 rings, 13,672 straight (14,797 mm) / 3,825 curved (5,217 mm); text 14 rings, 50 straight (38.9 mm) / 9 curved (10.2 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 3.1 @ (288.3, 312.6), r 3.1 @ (320.3, 247.8), r 2.7 @ (265.5, 232.8), r 1.7 @ (288.4, 312.2)",
+  "- **Closed boxes:** 2",
+  "- **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht"
+ ]
+}

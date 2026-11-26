@@ -1,0 +1,43 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M604/MANUALS/1967 - M604 - Dual Frequency Oscillator (2).pdf",
+ "page": 11,
+ "version": 1,
+ "trace": "_traces/b262cb1891290492-p11.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1543, 2000],
+  "mm": [333.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "11", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 5.0, 331.8, 431.2],
+ "outlines": {
+  "line": {"rings": 1641, "straight": {"n": 15277, "mm": 17212.6}, "curved": {"n": 4107, "mm": 5541.1}},
+  "text": {"rings": 22, "straight": {"n": 104, "mm": 105.2}, "curved": {"n": 34, "mm": 41.5}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [276.6, 64.8, 297.3, 73.9], "text": "ps"},
+   {"mm": [265.3, 53.3, 287.1, 64.6], "text": "BS"},
+   {"mm": [243.1, 31.1, 261.5, 38.3], "text": "tp"},
+   {"mm": [236.0, 24.0, 256.7, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 333 × 432 mm, 1543 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–332 mm across, 5–431 mm up",
+  "- **Outlines:** line 1,641 rings, 15,277 straight (17,213 mm) / 4,107 curved (5,541 mm); text 22 rings, 104 straight (105 mm) / 34 curved (41.5 mm)",
+  "- **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht"
+ ]
+}

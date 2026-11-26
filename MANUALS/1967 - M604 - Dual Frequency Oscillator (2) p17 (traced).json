@@ -1,0 +1,61 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M604/MANUALS/1967 - M604 - Dual Frequency Oscillator (2).pdf",
+ "page": 17,
+ "version": 1,
+ "trace": "_traces/b262cb1891290492-p17.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1537, 2000],
+  "mm": [331.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "17", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, -0.2, 326.9, 427.7],
+ "outlines": {
+  "line": {"rings": 893, "straight": {"n": 12270, "mm": 16808.8}, "curved": {"n": 2572, "mm": 3669.4}},
+  "text": {"rings": 3, "straight": {"n": 9, "mm": 9.4}, "curved": {"n": 6, "mm": 8.7}}
+ },
+ "circles": [{"c": [192.0, 44.8], "r": 3.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [37.4, 351.1, 46.4, 359.3], "w": 9.1, "h": 8.2, "from": "ring"},
+  {"mm": [122.9, 324.1, 155.2, 336.3], "w": 32.3, "h": 12.3, "from": "ring"},
+  {"mm": [128.0, 309.4, 149.8, 317.2], "w": 21.8, "h": 7.8, "from": "ring"},
+  {"mm": [79.0, 309.4, 101.0, 316.9], "w": 22.0, "h": 7.6, "from": "ring"},
+  {"mm": [79.0, 296.6, 100.9, 304.2], "w": 21.9, "h": 7.6, "from": "ring"},
+  {"mm": [228.0, 283.5, 250.0, 291.2], "w": 22.0, "h": 7.7, "from": "ring"},
+  {"mm": [177.7, 283.5, 199.5, 291.0], "w": 21.8, "h": 7.6, "from": "ring"},
+  {"mm": [227.8, 270.9, 249.6, 278.3], "w": 21.8, "h": 7.4, "from": "ring"},
+  {"mm": [5.0, 266.9, 25.7, 274.5], "w": 20.7, "h": 7.6, "from": "ring"},
+  {"mm": [177.7, 258.4, 199.8, 265.8], "w": 22.1, "h": 7.3, "from": "ring"},
+  {"mm": [79.0, 231.7, 100.8, 239.2], "w": 21.8, "h": 7.6, "from": "ring"},
+  {"mm": [177.3, 231.4, 199.0, 239.2], "w": 21.8, "h": 7.8, "from": "ring"},
+  {"mm": [227.8, 231.6, 249.6, 239.0], "w": 21.8, "h": 7.4, "from": "ring"},
+  {"mm": [158.0, 26.8, 317.4, 69.5], "w": 159.3, "h": 42.7, "from": "ring", "words": ["ps", "BS", "tp"]},
+  {"mm": [158.5, 12.5, 282.2, 26.8], "w": 123.7, "h": 14.2, "from": "ring", "words": ["ht"]}
+ ],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [281.5, 58.5, 302.3, 67.4], "text": "ps"},
+   {"mm": [270.1, 47.3, 291.7, 58.6], "text": "BS"},
+   {"mm": [248.1, 25.0, 266.4, 32.2], "text": "tp"},
+   {"mm": [240.9, 17.9, 261.7, 25.1], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 332 × 432 mm, 1537 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–327 mm across, 0–428 mm up",
+  "- **Outlines:** line 893 rings, 12,270 straight (16,809 mm) / 2,572 curved (3,669 mm); text 3 rings, 9 straight (9.4 mm) / 6 curved (8.7 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 3.6 @ (192.0, 44.8)",
+  "- **Closed boxes:** 15; named: ps BS tp; ht",
+  "- **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht"
+ ]
+}

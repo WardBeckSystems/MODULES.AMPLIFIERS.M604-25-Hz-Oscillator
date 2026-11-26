@@ -1,0 +1,73 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M604/MANUALS/1967 - M604 - Dual Frequency Oscillator.pdf",
+ "page": 15,
+ "version": 1,
+ "trace": "_traces/a42fcb71fa30cce0-p15.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1542, 2000],
+  "mm": [332.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "15", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 16.5, 314.1, 431.8],
+ "outlines": {
+  "line": {"rings": 1236, "straight": {"n": 10617, "mm": 10750.1}, "curved": {"n": 3038, "mm": 3917.8}},
+  "text": {"rings": 304, "straight": {"n": 3699, "mm": 4679.4}, "curved": {"n": 935, "mm": 1581.7}}
+ },
+ "circles": [
+  {"c": [198.0, 335.7], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [277.3, 291.1], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 44,
+  "lines": [
+   {"mm": [67.4, 377.4, 106.7, 383.9], "text": "@4v DC"},
+   {"mm": [63.0, 371.8, 107.3, 378.7], "text": "UnReGuL"},
+   {"mm": [121.3, 349.8, 157.8, 360.6], "text": "NOTES"},
+   {"mm": [131.7, 341.1, 272.5, 349.8], "text": "FOR COMPONJENT LAYOUT"},
+   {"mm": [132.1, 331.4, 151.6, 340.0], "text": "See"},
+   {"mm": [132.1, 316.3, 229.3, 324.9], "text": "UNLESS OThERwisE"},
+   {"mm": [131.7, 306.6, 224.3, 315.2], "text": "RESISTORS ARE 1/4"},
+   {"mm": [227.3, 305.5, 320.2, 316.3], "text": "WATT: TOLERANCE"},
+   {"mm": [160.2, 296.4, 213.7, 305.1], "text": "VALUES IN"},
+   {"mm": [218.3, 295.6, 270.3, 306.1], "text": "OHMS. ( n)."},
+   {"mm": [131.9, 285.9, 247.0, 295.7], "text": "CAPACITOR VALUES IN"},
+   {"mm": [120.3, 261.7, 154.8, 270.3], "text": "3.LAST"},
+   {"mm": [158.7, 262.3, 224.5, 270.5], "text": "COMPONJENT"},
+   {"mm": [229.9, 261.5, 302.5, 272.0], "text": "DESIoNATIONS"},
+   {"mm": [179.2, 251.5, 232.3, 261.8], "text": "FollowS"},
+   {"mm": [131.1, 252.2, 174.2, 260.8], "text": "ARE AS"},
+   {"mm": [130.6, 241.8, 181.8, 250.4], "text": "C2i CR3"},
+   {"mm": [193.7, 242.2, 262.8, 250.9], "text": "03 Rb3 23"},
+   {"mm": [132.1, 227.8, 176.8, 235.9], "text": "Forikhz"},
+   {"mm": [181.8, 227.6, 260.6, 236.4], "text": "STRAP i2to 14"},
+   {"mm": [190.6, 217.2, 263.4, 227.0], "text": "StRAP /2To 15"},
+   {"mm": [131.7, 217.6, 187.2, 226.3], "text": "For 40ohz"},
+   {"mm": [91.8, 154.4, 105.1, 161.3], "text": "DC"},
+   {"mm": [63.5, 148.5, 96.1, 156.5], "text": "CoMM;"},
+   {"mm": [185.0, 63.9, 217.6, 80.7], "text": "MRD:"},
+   {"mm": [132.1, 54.0, 161.7, 62.1], "text": "MRw"},
+   {"mm": [225.8, 48.8, 307.2, 60.1], "text": "M6oA (PCB)"},
+   {"mm": [97.6, 38.4, 166.0, 47.1], "text": "DAtE Adc7"},
+   {"mm": [210.9, 39.3, 278.9, 47.9], "text": "OSCILLATOR"},
+   {"mm": [211.6, 30.0, 274.2, 38.6], "text": "SCHEMATY"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 333 × 432 mm, 1542 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–314 mm across, 16–432 mm up",
+  "- **Outlines:** line 1,236 rings, 10,617 straight (10,750 mm) / 3,038 curved (3,918 mm); text 304 rings, 3,699 straight (4,679 mm) / 935 curved (1,582 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 3.1 @ (198.0, 335.7), r 2.0 @ (277.3, 291.1)",
+  "- **Words (OCR):** 44 in 30 lines: @4v DC · UnReGuL · NOTES · FOR COMPONJENT LAYOUT · See · UNLESS OThERwisE · RESISTORS ARE 1/4 · WATT: TOLERANCE · VALUES IN · OHMS. ( n). · CAPACITOR VALUES IN · 3.LAST"
+ ]
+}

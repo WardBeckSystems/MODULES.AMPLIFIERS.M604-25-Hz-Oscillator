@@ -1,0 +1,50 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M604/MANUALS/1967 - M604 - Dual Frequency Oscillator.pdf",
+ "page": 13,
+ "version": 1,
+ "trace": "_traces/a42fcb71fa30cce0-p13.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1552, 2000],
+  "mm": [335.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "13", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.7, -0.2, 335.2, 429.2],
+ "outlines": {
+  "line": {"rings": 3207, "straight": {"n": 22145, "mm": 21089.7}, "curved": {"n": 6767, "mm": 8235.3}},
+  "text": {"rings": 30, "straight": {"n": 272, "mm": 299.6}, "curved": {"n": 68, "mm": 101.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 10,
+  "lines": [
+   {"mm": [148.8, 344.1, 159.6, 349.4], "text": "Rl"},
+   {"mm": [144.2, 337.9, 162.1, 344.8], "text": "22k"},
+   {"mm": [262.3, 322.3, 277.0, 331.5], "text": "12p:"},
+   {"mm": [266.9, 309.8, 280.5, 316.3], "text": "Rs"},
+   {"mm": [302.0, 299.2, 321.9, 311.2], "text": "2435"},
+   {"mm": [205.1, 293.2, 219.1, 299.7], "text": "759"},
+   {"mm": [240.9, 284.6, 251.1, 291.0], "text": "26"},
+   {"mm": [301.0, 265.8, 311.1, 271.1], "text": "Re"},
+   {"mm": [297.1, 260.2, 312.6, 266.6], "text": "Sok"},
+   {"mm": [264.7, 255.2, 285.2, 261.7], "text": "CRe"}
+  ]
+ },
+ "dots": [{"c": [52.2, 400.3], "r": 1.0, "lines": 0}, {"c": [31.3, 361.6], "r": 0.9, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1552 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–335 mm across, 0–429 mm up",
+  "- **Outlines:** line 3,207 rings, 22,145 straight (21,090 mm) / 6,767 curved (8,235 mm); text 30 rings, 272 straight (300 mm) / 68 curved (101 mm)",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 10 in 10 lines: Rl · 22k · 12p: · Rs · 2435 · 759 · 26 · Re · Sok · CRe"
+ ]
+}

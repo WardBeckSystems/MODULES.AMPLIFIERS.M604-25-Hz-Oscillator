@@ -1,0 +1,69 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M604/SCHEMATICS/1967 - M604 - 1-129-02-001 - ESS OTHERWISE SPECIFIED IALL ISTORS ARE.jpg",
+ "version": 1,
+ "trace": "_traces/fc6cbf3bcac4decf.svg",
+ "sheet": {
+  "number": "29-05-001",
+  "title": "Unless Otherwise Specified Jayl Resistors Are",
+  "dtype": "05",
+  "type": "assembly",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [840, 1090],
+  "mm": [332.8, 431.8],
+  "mm_per_px": 0.39615
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 16.4, 314.3, 431.6],
+ "outlines": {
+  "line": {"rings": 780, "straight": {"n": 7267, "mm": 10832.5}, "curved": {"n": 1739, "mm": 3489.2}},
+  "text": {"rings": 255, "straight": {"n": 2326, "mm": 4274.6}, "curved": {"n": 668, "mm": 1684.1}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [286.8, 310.6, 290.5, 313.2], "w": 3.7, "h": 2.6, "from": "ring"},
+  {"mm": [98.2, 51.0, 116.9, 64.2], "w": 18.6, "h": 13.2, "from": "ring"},
+  {"mm": [118.4, 37.2, 175.4, 50.1], "w": 56.9, "h": 12.9, "from": "ring", "words": ["ADe"]}
+ ],
+ "text": {
+  "words": 39,
+  "lines": [
+   {"mm": [120.8, 349.0, 160.0, 361.8], "text": "NQTES:"},
+   {"mm": [130.7, 340.7, 271.8, 350.4], "text": "FOR COMPONJENT LAYOUT"},
+   {"mm": [155.3, 331.2, 234.5, 340.9], "text": "B/-/29-05-001"},
+   {"mm": [131.9, 331.6, 150.9, 339.5], "text": "SEE"},
+   {"mm": [131.5, 316.1, 229.8, 325.8], "text": "UNLESS OthERwisE"},
+   {"mm": [210.0, 304.2, 320.1, 317.0], "text": "1/4 WATT: TOLERANCE"},
+   {"mm": [130.3, 305.8, 207.2, 316.8], "text": "RESISTORS ARE"},
+   {"mm": [160.0, 296.3, 212.7, 306.0], "text": "VALUES IN"},
+   {"mm": [217.9, 296.3, 270.2, 306.0], "text": "OHMS. (n)"},
+   {"mm": [131.5, 286.0, 187.8, 295.7], "text": "CAPACITOR"},
+   {"mm": [191.3, 286.0, 246.8, 297.0], "text": "VALUES IN"},
+   {"mm": [251.9, 286.0, 324.8, 297.9], "text": "MICRO FARA"},
+   {"mm": [120.4, 261.5, 223.8, 271.1], "text": "3.LAST COMPONENT"},
+   {"mm": [229.8, 262.2, 301.9, 271.9], "text": "DESIGNATIONS"},
+   {"mm": [130.7, 251.9, 174.3, 261.6], "text": "ARE AS"},
+   {"mm": [129.9, 241.6, 181.8, 251.3], "text": "C21 CR3"},
+   {"mm": [193.3, 241.6, 261.9, 251.3], "text": "03 Rb3 23"},
+   {"mm": [131.5, 227.4, 259.9, 237.1], "text": "FoRikhz STRAP 12To 14"},
+   {"mm": [131.5, 217.1, 152.1, 226.8], "text": "For"},
+   {"mm": [190.9, 216.7, 263.0, 227.7], "text": "StRAP i2To 15"},
+   {"mm": [131.1, 53.9, 161.6, 64.0], "text": "MRW"},
+   {"mm": [225.8, 48.3, 307.4, 60.2], "text": "M6oa (RC B)"},
+   {"mm": [130.3, 40.0, 153.3, 47.9], "text": "ADe"},
+   {"mm": [210.0, 39.6, 278.9, 49.3], "text": "OSCILLATOR"},
+   {"mm": [97.5, 37.2, 115.7, 47.4], "text": "DAtE"},
+   {"mm": [97.5, 23.8, 117.3, 33.5], "text": "cd"},
+   {"mm": [210.8, 29.3, 274.1, 39.0], "text": "SCHEMAY"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** assembly 29-05-001, size B (assumed) 333 × 432 mm, 840 × 1090 px traced (0.396 mm/px)",
+  "- **Ink extent:** 0–314 mm across, 16–432 mm up",
+  "- **Outlines:** line 780 rings, 7,267 straight (10,832 mm) / 1,739 curved (3,489 mm); text 255 rings, 2,326 straight (4,275 mm) / 668 curved (1,684 mm)",
+  "- **Closed boxes:** 3; named: ADe",
+  "- **Words (OCR):** 39 in 27 lines: NQTES: · FOR COMPONJENT LAYOUT · B/-/29-05-001 · SEE · UNLESS OthERwisE · 1/4 WATT: TOLERANCE · RESISTORS ARE · VALUES IN · OHMS. (n) · CAPACITOR · VALUES IN · MICRO FARA"
+ ]
+}

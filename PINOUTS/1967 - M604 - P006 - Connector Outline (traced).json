@@ -1,0 +1,61 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M604/PINOUTS/1967 - M604 - P006 - Connector Outline.jpg",
+ "version": 1,
+ "trace": "_traces/4fa720c1f8a8c8d5.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [771, 1043],
+  "mm": [319.2, 431.8],
+  "mm_per_px": 0.414
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [38.5, 165.6, 288.1, 414.0],
+ "outlines": {
+  "line": {"rings": 39, "straight": {"n": 548, "mm": 2397.5}, "curved": {"n": 94, "mm": 280.0}},
+  "text": {"rings": 104, "straight": {"n": 878, "mm": 1788.7}, "curved": {"n": 272, "mm": 777.2}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [128.8, 260.4, 140.3, 269.5], "w": 11.6, "h": 9.1, "from": "ring"},
+  {"mm": [171.0, 262.9, 174.3, 266.2], "w": 3.3, "h": 3.3, "from": "ring"},
+  {"mm": [128.6, 248.8, 140.8, 259.2], "w": 12.1, "h": 10.3, "from": "ring"},
+  {"mm": [128.8, 238.9, 140.6, 247.6], "w": 11.8, "h": 8.7, "from": "ring"}
+ ],
+ "text": {
+  "words": 24,
+  "lines": [
+   {"mm": [148.6, 406.5, 176.8, 414.8], "text": "M6o4"},
+   {"mm": [114.3, 395.4, 222.7, 405.5], "text": "CONNECTOR OUTLINE"},
+   {"mm": [142.8, 281.5, 156.1, 288.9], "text": "90"},
+   {"mm": [209.5, 281.1, 289.4, 291.2], "text": "+24V dc UNREG."},
+   {"mm": [37.7, 274.9, 101.4, 283.2], "text": "24V COMMON"},
+   {"mm": [140.8, 270.3, 176.4, 281.3], "text": "1o 20"},
+   {"mm": [163.1, 259.6, 177.2, 271.1], "text": "38"},
+   {"mm": [38.1, 259.6, 95.2, 270.2], "text": "OUTPUT # |"},
+   {"mm": [140.8, 247.2, 177.2, 259.6], "text": "129 49"},
+   {"mm": [38.9, 238.0, 96.9, 248.6], "text": "OUTPUT #2"},
+   {"mm": [162.3, 238.9, 176.4, 249.0], "text": "50"},
+   {"mm": [140.3, 229.4, 175.9, 237.6], "text": "1140 60"},
+   {"mm": [163.1, 219.0, 177.2, 229.1], "text": "70"},
+   {"mm": [198.7, 223.1, 260.0, 233.7], "text": "AOOHz STRAP"},
+   {"mm": [139.9, 218.2, 155.7, 228.3], "text": "liso"},
+   {"mm": [198.7, 212.4, 256.3, 223.9], "text": "IKHz STRAP"},
+   {"mm": [140.3, 208.7, 155.2, 216.9], "text": "Ii6o"},
+   {"mm": [162.3, 208.2, 177.2, 218.4], "text": "80"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout, size B (assumed) 319 × 432 mm, 771 × 1043 px traced (0.414 mm/px)",
+  "- **Ink extent:** 38–288 mm across, 166–414 mm up",
+  "- **Outlines:** line 39 rings, 548 straight (2,398 mm) / 94 curved (280 mm); text 104 rings, 878 straight (1,789 mm) / 272 curved (777 mm)",
+  "- **Closed boxes:** 4",
+  "- **Words (OCR):** 24 in 18 lines: M6o4 · CONNECTOR OUTLINE · 90 · +24V dc UNREG. · 24V COMMON · 1o 20 · 38 · OUTPUT # | · 129 49 · OUTPUT #2 · 50 · 1140 60"
+ ]
+}

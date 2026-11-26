@@ -1,0 +1,55 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M604/MANUALS/1967 - M604 - Dual Frequency Oscillator.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/a42fcb71fa30cce0-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1438, 2000],
+  "mm": [310.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 2.2, 294.3, 422.9],
+ "outlines": {
+  "line": {"rings": 22, "straight": {"n": 81, "mm": 86.1}, "curved": {"n": 20, "mm": 32.6}},
+  "text": {"rings": 173, "straight": {"n": 1479, "mm": 1868.3}, "curved": {"n": 482, "mm": 784.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [46.9, 364.9, 153.1, 373.5], "text": "DESIGNED AND MANUFACTURED"},
+   {"mm": [92.8, 358.4, 102.6, 366.1], "text": "BY"},
+   {"mm": [46.9, 350.8, 86.1, 359.0], "text": "WARD-BECK"},
+   {"mm": [88.7, 350.6, 153.5, 360.2], "text": "SYSTEMS LIMITED"},
+   {"mm": [46.6, 343.3, 127.8, 352.9], "text": "841 PROGRESS AVENUE"},
+   {"mm": [46.4, 335.9, 132.1, 346.5], "text": "ScARBOROUGH , ONTARIO"},
+   {"mm": [47.5, 322.8, 111.2, 331.4], "text": "(416 ) 438-6550"},
+   {"mm": [47.5, 316.3, 111.6, 324.4], "text": "TELEX 06-23469"},
+   {"mm": [231.4, 83.8, 249.8, 91.9], "text": "M604"},
+   {"mm": [189.6, 68.0, 295.8, 78.3], "text": "DUAL FREquencY OSCILLATOR"}
+  ]
+ },
+ "title_block": {
+  "mm": [40.7, 341.9, 159.7, 368.9],
+  "from": "title-block words (training set)",
+  "text": ["DESIGNED AND MANUFACTURED", "BY", "WARD-BECK", "SYSTEMS LIMITED", "841 PROGRESS AVENUE"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 310 × 432 mm, 1438 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–294 mm across, 2–423 mm up",
+  "- **Outlines:** line 22 rings, 81 straight (86.1 mm) / 20 curved (32.6 mm); text 173 rings, 1,479 straight (1,868 mm) / 482 curved (785 mm)",
+  "- **Words (OCR):** 16 in 10 lines: DESIGNED AND MANUFACTURED · BY · WARD-BECK · SYSTEMS LIMITED · 841 PROGRESS AVENUE · ScARBOROUGH , ONTARIO · (416 ) 438-6550 · TELEX 06-23469 · M604 · DUAL FREquencY OSCILLATOR",
+  "- **Title block:** (41, 342)–(160, 369) mm: DESIGNED AND MANUFACTURED · BY · WARD-BECK · SYSTEMS LIMITED · 841 PROGRESS AVENUE"
+ ]
+}

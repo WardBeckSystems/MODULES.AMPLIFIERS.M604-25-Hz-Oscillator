@@ -1,0 +1,72 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M604/MANUALS/1967 - M604 - Dual Frequency Oscillator (2).pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/b262cb1891290492-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1397, 2000],
+  "mm": [301.6, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [9.4, 190.2, 274.6, 406.1],
+ "outlines": {
+  "line": {"rings": 110, "straight": {"n": 1159, "mm": 1376.9}, "curved": {"n": 402, "mm": 633.5}},
+  "text": {"rings": 273, "straight": {"n": 2532, "mm": 2763.6}, "curved": {"n": 824, "mm": 1309.5}}
+ },
+ "circles": [{"c": [147.7, 248.9], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 57,
+  "lines": [
+   {"mm": [52.5, 396.4, 67.6, 402.1], "text": "M604"},
+   {"mm": [52.9, 388.4, 112.1, 394.2], "text": "TECHNI CAL DATA:"},
+   {"mm": [53.3, 365.5, 92.0, 371.3], "text": "FREQUENCY:"},
+   {"mm": [106.0, 365.5, 169.5, 371.3], "text": "00 Hz OJ:' 1000 Hz"},
+   {"mm": [102.8, 357.3, 202.1, 363.1], "text": "(Determinec1 by conditiona"},
+   {"mm": [52.9, 341.3, 158.0, 346.9], "text": "OtrrPUT L:!VEL 1\\ND \"IMPEDANCE"},
+   {"mm": [105.8, 334.4, 274.8, 340.2], "text": "-lOdam to 10c1am Vuiable 600 ohlll balal'lCed"},
+   {"mm": [52.9, 319.3, 156.7, 324.8], "text": "TOTAL HARMONIC DISTORTION:"},
+   {"mm": [113.6, 311.1, 129.3, 316.9], "text": "Le aa"},
+   {"mm": [154.2, 311.1, 168.6, 317.3], "text": "0.5\""},
+   {"mm": [52.9, 296.2, 168.8, 302.0], "text": "FREQUENCY ACCURACY/STABILITY:"},
+   {"mm": [113.1, 287.8, 137.7, 293.6], "text": "Within"},
+   {"mm": [53.1, 274.0, 74.7, 279.5], "text": "PCMER"},
+   {"mm": [77.5, 273.8, 125.7, 279.5], "text": "REQUIREMENTS"},
+   {"mm": [114.0, 266.0, 120.7, 271.5], "text": "24"},
+   {"mm": [138.2, 266.0, 144.4, 271.5], "text": "J6"},
+   {"mm": [158.3, 265.8, 235.5, 271.8], "text": "de ufU'equlatec1 25 mA"},
+   {"mm": [52.5, 227.1, 93.1, 232.6], "text": "DIMENSIONS"},
+   {"mm": [113.8, 219.6, 130.0, 225.3], "text": "1.7W"},
+   {"mm": [147.2, 219.6, 158.0, 225.3], "text": ".48"},
+   {"mm": [170.3, 219.6, 190.2, 225.3], "text": "13.7D"},
+   {"mm": [202.7, 219.6, 225.2, 225.3], "text": "inches"},
+   {"mm": [113.6, 212.0, 128.0, 218.0], "text": "4.3M"},
+   {"mm": [146.8, 212.0, 158.0, 217.8], "text": ".68"},
+   {"mm": [170.6, 212.0, 190.2, 217.8], "text": "34 .80"},
+   {"mm": [202.7, 211.8, 213.1, 218.0], "text": "em."},
+   {"mm": [52.0, 196.3, 78.8, 202.0], "text": "WEIGHT:"},
+   {"mm": [121.1, 188.9, 128.5, 194.7], "text": "lb"},
+   {"mm": [249.1, 59.8, 267.9, 68.0], "text": "ps"},
+   {"mm": [239.0, 49.4, 258.6, 59.8], "text": "BS"},
+   {"mm": [218.7, 29.4, 235.3, 35.8], "text": "tp"},
+   {"mm": [212.2, 22.9, 231.0, 29.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 302 × 432 mm, 1397 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 9–275 mm across, 190–406 mm up",
+  "- **Outlines:** line 110 rings, 1,159 straight (1,377 mm) / 402 curved (634 mm); text 273 rings, 2,532 straight (2,764 mm) / 824 curved (1,310 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.0 @ (147.7, 248.9)",
+  "- **Words (OCR):** 57 in 32 lines: M604 · TECHNI CAL DATA: · FREQUENCY: · 00 Hz OJ:' 1000 Hz · (Determinec1 by conditiona · OtrrPUT L:!VEL 1\\ND \"IMPEDANCE · -lOdam to 10c1am Vuiable 600 ohlll balal'lCed · TOTAL HARMONIC DISTORTION: · Le aa · 0.5\" · FREQUENCY ACCURACY/STABILITY: · Within"
+ ]
+}
