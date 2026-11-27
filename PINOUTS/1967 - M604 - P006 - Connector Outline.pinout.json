@@ -1,0 +1,171 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1967 - M604 - P006 - Connector Outline.jpg",
+  "module": "M604",
+  "applies_to": [
+    "M604"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": null,
+    "title": "M604 CONNECTOR OUTLINE",
+    "date": null,
+    "issue": null,
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "other",
+      "contacts": 16,
+      "rows": "1-8 opposite 9-16",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "+24V dc UNREG.",
+      "signal": "+24 V UNREG",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "OUTPUT #1",
+      "signal": "OUTPUT 1",
+      "kind": "out",
+      "port": "OUTPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "OUTPUT #2",
+      "signal": "OUTPUT 2",
+      "kind": "out",
+      "port": "OUTPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "400Hz STRAP",
+      "signal": "400 HZ STRAP",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "400Hz STRAP / 1KHz STRAP",
+      "signal": "STRAP COMMON (400 HZ / 1 KHZ)",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "1KHz STRAP",
+      "signal": "1 KHZ STRAP",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "(ground symbol)",
+      "signal": "GROUND",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "24V COMMON",
+      "signal": "24V COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "OUTPUT #1",
+      "signal": "OUTPUT 1",
+      "kind": "out",
+      "port": "OUTPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "OUTPUT #2",
+      "signal": "OUTPUT 2",
+      "kind": "out",
+      "port": "OUTPUT 2",
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "OUTPUT 1",
+      "dir": "out",
+      "pins": {
+        "a": "P1-11",
+        "b": "P1-3"
+      }
+    },
+    {
+      "name": "OUTPUT 2",
+      "dir": "out",
+      "pins": {
+        "a": "P1-12",
+        "b": "P1-4"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [
+    {
+      "name": "400Hz STRAP",
+      "pins": [
+        "P1-6",
+        "P1-7"
+      ],
+      "note": "bracket spans 6-7"
+    },
+    {
+      "name": "1KHz STRAP",
+      "pins": [
+        "P1-7",
+        "P1-8"
+      ],
+      "note": "bracket spans 7-8"
+    }
+  ],
+  "unread": [
+    "Which contact of each output pair is + / - (or hot / common) is not marked.",
+    "Pins 2, 5, 13, 14, 15, 16 have no label."
+  ],
+  "confidence": "medium",
+  "notes": "No title block; the drawing names no connector (P1 used; the file name's 'P006' is not on the drawing). 16-contact connector, 1-8 in one column and 9-16 in the other. Lead lines traced: OUTPUT #1 bracket goes to 11 and (across) 3; OUTPUT #2 to 12 and (across) 4. Pin 9 goes to a ground/chassis symbol; 10 = 24V COMMON; 1 = +24V dc UNREG. Strap brackets: 400Hz on 6-7, 1KHz on 7-8 (7 shared) - bracket ends read from a low-resolution scan. The title calls it a 25 Hz oscillator only in the folder name; the drawing shows 400Hz and 1KHz straps."
+}

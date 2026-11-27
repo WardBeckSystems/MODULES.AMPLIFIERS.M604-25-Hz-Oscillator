@@ -3,37 +3,223 @@
  "connector": "RTO-144",
  "type": null,
  "series": null,
- "contacts": "15 contacts",
- "verified": null,
- "derived": true,
- "variant_of": null,
- "pins": [
+ "connectors": [
   {
-   "pin": "11",
-   "signal": "TWO 600 OHM OUTPUTS AREPROVIDED",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/AMPLIFIERS/M604/MANUALS/1967 - M604 - P003 - Circuit Description.jpg",
-   "page": 1
-  },
-  {
-   "pin": "12",
-   "signal": "TWO 600 OHM OUTPUTS AREPROVIDED",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/AMPLIFIERS/M604/MANUALS/1967 - M604 - P003 - Circuit Description.jpg",
-   "page": 1
+   "name": "P1",
+   "kind": "other",
+   "contacts": 16,
+   "rows": "1-8 opposite 9-16",
+   "view": null,
+   "part": null
   }
  ],
- "straps": [],
- "power": [],
- "sources": [
-  "Modules/AMPLIFIERS/M604/MANUALS/1967 - M604 - P003 - Circuit Description.jpg"
- ]
+ "verified": null,
+ "built_from": {
+  "pictures": [
+   "M604/PINOUTS/1967 - M604 - P006 - Connector Outline.pinout.json"
+  ],
+  "sheet": null,
+  "sheet_agrees": null
+ },
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "1",
+   "ref": "1",
+   "also": null,
+   "same_row": null,
+   "signal": "+24 V UNREG",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M604/PINOUTS/1967 - M604 - P006 - Connector Outline.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "ref": "3",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 1",
+   "kind": "out",
+   "port": "OUTPUT 1",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M604/PINOUTS/1967 - M604 - P006 - Connector Outline.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "ref": "4",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 2",
+   "kind": "out",
+   "port": "OUTPUT 2",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M604/PINOUTS/1967 - M604 - P006 - Connector Outline.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "ref": "6",
+   "also": null,
+   "same_row": null,
+   "signal": "400 HZ STRAP",
+   "kind": "strap",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M604/PINOUTS/1967 - M604 - P006 - Connector Outline.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "ref": "7",
+   "also": null,
+   "same_row": null,
+   "signal": "STRAP COMMON (400 HZ / 1 KHZ)",
+   "kind": "strap",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M604/PINOUTS/1967 - M604 - P006 - Connector Outline.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "8",
+   "ref": "8",
+   "also": null,
+   "same_row": null,
+   "signal": "1 KHZ STRAP",
+   "kind": "strap",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M604/PINOUTS/1967 - M604 - P006 - Connector Outline.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "9",
+   "ref": "9",
+   "also": null,
+   "same_row": null,
+   "signal": "GROUND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M604/PINOUTS/1967 - M604 - P006 - Connector Outline.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "ref": "10",
+   "also": null,
+   "same_row": null,
+   "signal": "24V COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M604/PINOUTS/1967 - M604 - P006 - Connector Outline.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "ref": "11",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 1",
+   "kind": "out",
+   "port": "OUTPUT 1",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M604/PINOUTS/1967 - M604 - P006 - Connector Outline.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "ref": "12",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 2",
+   "kind": "out",
+   "port": "OUTPUT 2",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M604/PINOUTS/1967 - M604 - P006 - Connector Outline.pinout.json"
+   ],
+   "sheet": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "OUTPUT 1",
+   "dir": "out",
+   "pins": {
+    "a": "P1-11",
+    "b": "P1-3"
+   }
+  },
+  {
+   "name": "OUTPUT 2",
+   "dir": "out",
+   "pins": {
+    "a": "P1-12",
+    "b": "P1-4"
+   }
+  }
+ ],
+ "inserts": [],
+ "straps": [
+  {
+   "name": "400Hz STRAP",
+   "pins": [
+    "P1-6",
+    "P1-7"
+   ],
+   "note": "bracket spans 6-7"
+  },
+  {
+   "name": "1KHz STRAP",
+   "pins": [
+    "P1-7",
+    "P1-8"
+   ],
+   "note": "bracket spans 7-8"
+  }
+ ],
+ "conflicts": [],
+ "to_check": []
 }

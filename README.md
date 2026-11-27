@@ -169,12 +169,22 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 
 ## RTO-144 pinout
 
-15 contacts. Read from the module's own documents (no RTO-144 sheet yet). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 11 | TWO 600 OHM OUTPUTS AREPROVIDED | out |  | medium |
-| 12 | TWO 600 OHM OUTPUTS AREPROVIDED | out |  | medium |
+| 1 | +24 V UNREG | power |  | medium |
+| 3 | OUTPUT 1 | out | OUTPUT 1 | medium |
+| 4 | OUTPUT 2 | out | OUTPUT 2 | medium |
+| 6 | 400 HZ STRAP | strap |  | medium |
+| 7 | STRAP COMMON (400 HZ / 1 KHZ) | strap |  | medium |
+| 8 | 1 KHZ STRAP | strap |  | medium |
+| 9 | GROUND | ground |  | medium |
+| 10 | 24V COMMON | ground |  | medium |
+| 11 | OUTPUT 1 | out | OUTPUT 1 | medium |
+| 12 | OUTPUT 2 | out | OUTPUT 2 | medium |
+
+**Straps:** 400Hz STRAP: P1-6 P1-7 · 1KHz STRAP: P1-7 P1-8
 
 ## Manuals and documents
 
