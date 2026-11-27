@@ -13,6 +13,130 @@ Ward-Beck Systems M604, 1967|0. Wiki page: [M604 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 27 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [2 topics](FORUM.md): what owners and technicians said about it.
+
+## Circuit description
+
+From [1967 - M604 - Dual Frequency Oscillator (2).pdf](MANUALS/1967%20-%20M604%20-%20Dual%20Frequency%20Oscillator%20(2).pdf) pages 3-8 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+with ref ere n c e t o drawing 8 1-129-02-00 1: integrated cin;:uit z l forwlll the b a. i c o. ci l later circuit, integrated circuita, Z2 a r:4 ZJ provide thea cti v el y balanced output and Ql, Q2, and QJ b the regulator.
+
+Th. aeetion o f Zl aaaociated with ca, C9, R7. a e, RlO. Rll. and R1 3 for. a n active Bridged TEE band paaa filter which _y be hlned to 400 en 1000 Hz. by conditional connect o r auapping. The aine wave output appear. a t era BTld b fed to R34 the eo4ul. front ~Tlel tr1lll e OTlU ol. OUtput of Zl pin I J ia a b o led via R9 to the input o f.eetion 1 of Z l which ac ta a. a COlllparator and ganeratea aqua r e wave. at i t. output the amp litl.1de o f which i. determi na d by CRl and CR.2 (J.JV zen eX' diode.). 'J'he llIIlOUnt o f. qua X'e _v. a igna l fed into the Bridge TEE filter i. dat. X'lIlined by R6. Thb c o nuol will determine the di ator ti o nan d. amplitude atability oft he oa c i l h tor. 'I'he ph a a e X'e lati o n a hip of tha a ig na l volta g ea around. the can parat or aquar. wa v a ga na r ato rand Br id.g. TEE filter o f Z l, ia au e h aa t o X'. generative and therefore prod.uce a con tinuou a oaci l lat ion.
+
+The output amplifier a C'OIlIposed ot then oninverti n g a e c tion Z2 and th. inverting a e c t ion aa provide ana c t ive l y balanced. output at the output coupling capac i t oX' e 19 and C20. TWO 600 ohal outpuu -ar~: P.r ovi de d appearing at the PC connector p ina J, 5 &amp; 4, 6. Thea ein turn are connect.d to the mo4 u le connector and. appear on pina J. 11 and. 4.12 re a pec ti v. l y.
+
+The 2 4 t o 3 6 vck: a'Upp ly voltage ia regulated down 'to l6v. Ql a cta a a the ae r iaa pas a tranaiator, Q2 pe rfoX'llla th. function ot reterence Ulpl i fie rand voltage divider R29. R30 and. cOlllpeX'ed with the relatively cOM u n t emitte r t o baae vo luge (0.6v) of Q2. There aulting difference b U1plifbd by Q2 which intu.rn variaa the baa. current to the aeriea paa. treMiator 01. n:T Q3 a cta a • • high impenaAnce conaten t current CQUX'ca for the co lleetor of Q2 and baae ot Ql.
+
+VOLTAGE C$.RT pca 1 -129
+
+lie connector Pi ru:
+
+10 11 12 13 14
+
+ai 8 1.5..5 13 13 8 8 -13 13 1.5•.5 8 16
+
+·z2 14 B.6 8 16 14
+
+**Z3 14 8.6 B 16 14**
+
+01 2 3 •.5 16
+
+02 16..5 0.6
+
+03 16.5 23.5 23
+
+(1) Supply current nominally 1 8 rna.
+
+(2) Me••ure llle nt. taken with a 20.00 0. ohm / volt Illete r.
+
+(3) Tole renetl o f voltage llItIa. u re:ne n t -= 10%. (4) Supply voltage. e t for 24 vee •
+
+SETW AND TEST PJt9C'£IlUU
+
+1. Apply 2&amp;V dc. lowly to te.t t e r-ina h. and. note that the output eu r rent shauld be between 1 2 -19 _.
+
+2. O1eck that requlator output a t the emitter 01 is +16.SV eSe.
+
+l. Strap oscillator connector for. 00 Hz cwt put frequency. Adjust R6 t o give 0.35&quot; t o 0 ••&quot; distort ion.
+
+Also note that the output level control range.hould b a betwean -13 d8nl to +14 05_ at. 00 H%..
+
+S. Strap e-cillator connector at 1.000 Hz trequanea output. Tha output bval control ra&quot;9a. hou l d be -15 aa. to +10 dBm. Tha total ha rlDOn.ic distortion ah ould be les. than 0.5% (typica Uy Ie.. than 0.1 %) a t +8 deou t put.
+
+6. Tha output eurrant sbould ba approximately 1 8 _ at both f r equa ncy aa tti ng a t + &amp; d!D output laval.
+
+7. lAval chaJJ9a betwean fr~ancia. i. 3 l!B.
+
+Ca..I N EC TOR OUTLINE.
+
+24 V c.ot...1MON
+
+**OUTPUT *1**
+
+OUTPUT #Z.
+
+) 400 H z. STRAP J 1KHz STRAP
+
+0 60. DUAL PREOUENCI OSC ILlA'1&quot;OR. Page 1.
+
+**DESCRIPTION**
+
+.047 Illfd 22 at&quot;d 2Sv 6800 p td
+
+Philip-'
+
+Er10
+
+**C344AB /A 47K**
+
+T36 2-C226-o2SAS
+
+**81 21 -100 -WSRO-682J**
+
+C. 12 pEd Er10 81 01 -100-COGO-12 1K CS 1 2 pEd Erie
+
+CO SOT Ph~l1Pl!l e7 SOT ce. 0 1 mEd 100V C344A8!A10K C,. 0 1 ID.!d ere 12 p t d Erie 8 l 0 1-1 0 0 - COGO-12 1K
+
+ell
+
+6800 ptd 10 atd 2SV 10 lilt!! 2SV
+
+Erl. 8 12 1-100 wSRO-6 82J T3 62-8106-o2SAS
+
+Cl. 10 Jl! d 2SV C15 1000 p t d Er1.8 12 1-100 -WSROI02 K
+
+cIS 2 2 p Ed Er10 8111-1QO-COGO-22 lX en 1000 p Ed 8121-109-w5RO-10 2K c 18 22 pta 8111-100-C9GO-22lK C19 100 IIltd lSV Si eflleJUI E81 00 /1S C20 10 0 lIlt4 lSv
+
+e21 100 Illt:d 35 V Siemens £8 100/35
+
+CRl z e ne r Diode I. R. 1N746 -A CR2 Zene r Diode I. R. lN746 - A CR3 Silicone Di04e I. R. lN400 3
+
+Jl 15 pin COnnector Elco 00 -600 7-0 15 -9 40 -00 2 J2 16 pin connector A:Ilphe nol 26 -15 9 -16
+
+Printed c 1rcui t Brd. WBS 1-129
+
+01 Treneie tor Silicone
+
+**'NPU' 292102**
+
+02 Transistor silicone (I'ilt'N) Pair child 2N51 3 7
+
+03 Transistor PET (P rET) 2N5033
+
+.1 22K ohms phllips/Ohmite All r e.is tors law 5&quot;
+
+R2 22K unless e pe c i t ieCl
+
+R3 100 otherwi.e
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
