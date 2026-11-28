@@ -1,6 +1,6 @@
 # M604 25 Hz Oscillator · Amplifiers
 
-Ward-Beck Systems M604, 1967|0. Wiki page: [M604 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M604.html)
+Ward-Beck Systems M604, 1967|0. Wiki page: [M604 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M604-25-Hz-Oscillator/)
 
 | Folder | What is in it | Files |
 |---|---|---|

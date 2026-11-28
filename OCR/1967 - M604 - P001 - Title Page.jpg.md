@@ -1,5 +1,5 @@
 # 1967 - M604 - P001 - Title Page.jpg
-Wiki page: [M604](../../../../PAGES/M604.md)
+Wiki page: [M604](../)
 
 
 - **Year:** 1967 (module estimate (month))

@@ -1,5 +1,5 @@
 # 1967 - M604 - P006 - Connector Outline.jpg
-Wiki page: [M604](../../../../PAGES/M604.md)
+Wiki page: [M604](../)
 
 
 - **Year:** 1967 (module estimate (month))

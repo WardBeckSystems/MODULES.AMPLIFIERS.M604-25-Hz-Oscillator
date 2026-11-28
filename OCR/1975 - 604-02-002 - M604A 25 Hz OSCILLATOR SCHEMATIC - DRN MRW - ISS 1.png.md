@@ -1,5 +1,5 @@
 # 1975 - 604-02-002 - M604A 25 Hz OSCILLATOR SCHEMATIC - DRN MRW - ISS 1.png
-Wiki page: [M604](../../../../PAGES/M604.md)
+Wiki page: [M604](../)
 
 
 - **Year:** 1975 (title block date)

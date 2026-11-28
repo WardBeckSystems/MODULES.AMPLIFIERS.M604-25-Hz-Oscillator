@@ -1,5 +1,5 @@
 # 1967 - M604 - 1-129-02-001 - UNLESS OTHERW RESISTORS ARE.jpg
-Wiki page: [M604](../../../../PAGES/M604.md)
+Wiki page: [M604](../)
 
 
 - **Year:** 1967 (module estimate (month))
